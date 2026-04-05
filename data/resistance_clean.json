@@ -1,0 +1,14 @@
+{
+  "E.coli|ceftriaxone": 0.13720000000000002,
+  "E.coli|gentamicin": 0.11460000000000001,
+  "E.coli|meropenem": 0.002033333333333333,
+  "E.coli|ciprofloxacin": 0.24136666666666667,
+  "Klebsiella|ceftriaxone": 0.32553333333333334,
+  "Klebsiella|gentamicin": 0.27436666666666665,
+  "Klebsiella|meropenem": 0.04756666666666666,
+  "Klebsiella|ciprofloxacin": 0.29846666666666666,
+  "Acinetobacter|gentamicin": 0.3761304347826087,
+  "Acinetobacter|meropenem": 0.35639130434782607,
+  "Acinetobacter|ciprofloxacin": 0.41917391304347823,
+  "Acinetobacter|ceftriaxone": 0.6
+}
